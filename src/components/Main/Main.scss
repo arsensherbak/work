@@ -1,0 +1,67 @@
+.main {
+  flex: 1 1 auto;
+  margin-top: 50px;
+  margin: auto 60px;
+}
+input{
+  text-transform: lowercase;
+}
+.formCard {
+  display: flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+  .card {
+    width: 250px;
+    border: 5px solid rgb(87,68,61);
+    border-radius: 30%;
+    margin-top: 50px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: box-shadow 0.7s ease-in-out;
+    transform: 0.7s ease-in-out ;
+    cursor: pointer;
+  }
+ 
+}
+.topMain{
+  display: flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+  color: white;
+  font-size: 25px;
+  align-items: center;
+  text-align: center;
+}
+.searchValue{
+  overflow: hidden;
+  width: 300px;
+  font-size: 0.7em;
+}
+
+.searchBlock {
+  display: flex;
+  border: 2px solid white;
+  
+svg {
+  cursor: pointer;
+}
+}
+p{
+  margin: 5px;
+}
+@media screen and (max-width: 812px) {
+  .main{
+    margin: inherit;
+  }
+  .searchBlock,.searchValue,.card{
+    margin: 0 auto;
+  }
+  .card {
+    width: 100px;
+  }
+  .searchValue{
+    font-size: 0.5em;
+  }
+}

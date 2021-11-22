@@ -1,0 +1,21 @@
+
+.app {
+  max-width: 100%;
+}
+.wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  
+  color: rgb(87,68,61);
+  
+
+}
+@media screen and (max-width: 812px) {
+.app{
+  max-width: 812px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+}

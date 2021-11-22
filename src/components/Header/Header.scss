@@ -1,0 +1,31 @@
+.header{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 20px;
+  margin: auto 60px;
+}
+
+.rightHeader{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .rightHeaderBot{
+    display: flex;
+    a{
+      margin:10px;
+    }
+  }
+}
+.leftHeader{
+  font-size: 30px;
+  
+}
+@media screen and (max-width: 812px) {
+  .header{
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: inherit;
+    padding: inherit;
+  }
+}
