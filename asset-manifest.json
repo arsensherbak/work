@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/work/static/css/main.31456624.chunk.css",
+    "main.js": "/work/static/js/main.434210c7.chunk.js",
+    "main.js.map": "/work/static/js/main.434210c7.chunk.js.map",
+    "runtime-main.js": "/work/static/js/runtime-main.d65fe4d6.js",
+    "runtime-main.js.map": "/work/static/js/runtime-main.d65fe4d6.js.map",
+    "static/js/2.7b284d57.chunk.js": "/work/static/js/2.7b284d57.chunk.js",
+    "static/js/2.7b284d57.chunk.js.map": "/work/static/js/2.7b284d57.chunk.js.map",
+    "static/js/3.bd21e696.chunk.js": "/work/static/js/3.bd21e696.chunk.js",
+    "static/js/3.bd21e696.chunk.js.map": "/work/static/js/3.bd21e696.chunk.js.map",
+    "index.html": "/work/index.html",
+    "static/css/main.31456624.chunk.css.map": "/work/static/css/main.31456624.chunk.css.map",
+    "static/js/2.7b284d57.chunk.js.LICENSE.txt": "/work/static/js/2.7b284d57.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/work/static/media/avatar.6459fd0b.png",
+    "static/media/logo_shiroke.3539a3c4.png": "/work/static/media/logo_shiroke.3539a3c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d65fe4d6.js",
+    "static/js/2.7b284d57.chunk.js",
+    "static/css/main.31456624.chunk.css",
+    "static/js/main.434210c7.chunk.js"
+  ]
+}
